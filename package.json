@@ -1,0 +1,22 @@
+{
+  "name": "sugar",
+  "version": "1.0.0",
+  "description": "exposes Pod and Host the build is run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vigneshrajkumar/sugar.git"
+  },
+  "author": "vignesh rajkumar <vigneshrajkumar@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshrajkumar/sugar/issues"
+  },
+  "homepage": "https://github.com/vigneshrajkumar/sugar#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
